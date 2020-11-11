@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-int i;
+int i;                                    //i可以替换成user_num
 int arr[ ]={31,28,31,30,31,30,31,31,30,31,30,31};
 for(i=1;i<=12;i++)
 {
