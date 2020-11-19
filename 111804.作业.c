@@ -26,3 +26,15 @@ int main()
 return 0;
 }
 
+
+
+int main()
+{
+	int i;
+	int arr[]={2020,2021,2022,2022};
+	for(i=0;i<=3;i++)
+	{
+	printf("%d ",arr[i]);
+	}
+return 0;
+}
