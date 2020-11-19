@@ -15,7 +15,7 @@ printf("男");
 return 0;
 }
 
-#include<stdio.h>
+
 int main()
 {
 	printf("\n    ★\n");
