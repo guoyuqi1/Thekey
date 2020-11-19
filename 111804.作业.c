@@ -38,3 +38,13 @@ int main()
 	}
 return 0;
 }
+
+
+
+int main()
+{
+double i;
+scanf("%lf",&i);
+printf("%0.3lf",i);
+return 0;
+}
