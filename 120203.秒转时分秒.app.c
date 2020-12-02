@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-    int i,a,b,c,d;
+    int i,a,b,c;
     printf("欢迎使用死兆星软件！\n");
     printf("请输入秒数:\n");
     scanf("%d",&i);
